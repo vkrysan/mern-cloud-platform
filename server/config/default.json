@@ -1,0 +1,5 @@
+{
+  "serverPort": 500,
+  "dbUrl": "mongodb+srv://user:root@cluster0.qfwolma.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "mern-secret-key"
+}
